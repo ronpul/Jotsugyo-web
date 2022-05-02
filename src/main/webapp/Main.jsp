@@ -1,8 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
+    
 <!DOCTYPE html>
 <html>
 <head>
+<link href="Main.css" rel="stylesheet" type="text/css">
 <meta charset="EUC-KR">
 <title>메인화면</title>
 </head>

@@ -1,0 +1,44 @@
+@charset "EUC-KR";
+
+nav{
+	width:200px;
+	background-color:#eee;
+	border-right:1px solid #ddd;
+	
+	position:fixed;
+	height:100%
+	
+}
+
+h1{
+	font-size:18px; padding:20px;
+
+}	
+.menu{}
+
+.menu li{}
+	
+
+.menu li a {
+	height:30px;
+	line-height:30px;
+	display:block;
+	padding: 0 20px;
+	font-size:12px;
+	color: #555;
+	
+
+}
+
+.menu li a:hover {
+	background-color:yellowgreen; color:white;
+}
+
+section{
+	padding-left:220px;
+	padding-top:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	padding:20px;
+	
+}
