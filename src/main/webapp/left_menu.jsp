@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="Main.css" rel="stylesheet" type="text/css">
+<link href="left_menu.css" rel="stylesheet" type="text/css">
 <meta charset="EUC-KR">
 <title>메인화면</title>
 </head>
