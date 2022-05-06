@@ -4,20 +4,13 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-
-<link href="left_menu.css" rel="stylesheet" type="text/css">
-<link href="img.css" rel="stylesheet" type="text/css">
-<title>우리 집 한눈에 보기</title>
+<title>메인 화면</title>
 </head>
 <body>
 	<%@ include file="left_menu.jsp" %>
-	
 	<div>
-		<img src="our_home.PNG">
+		<img src="main_img.PNG">
 	</div>
 	
-	
-	
-
 </body>
 </html>
