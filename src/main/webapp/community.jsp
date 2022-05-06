@@ -8,5 +8,10 @@
 </head>
 <body>
 	<%@ include file="left_menu.jsp" %>
+	
+		<div>
+		<img src="community.PNG">
+		</div>
+	
 </body>
 </html>

@@ -6,7 +6,6 @@
 <meta charset="EUC-KR">
 
 <link href="left_menu.css" rel="stylesheet" type="text/css">
-<link href="img.css" rel="stylesheet" type="text/css">
 <title>우리 집 한눈에 보기</title>
 </head>
 <body>
