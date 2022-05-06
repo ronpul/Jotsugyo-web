@@ -12,10 +12,10 @@
 	<nav>
 		<h1>우리집</h1>
 		<ul class="menu">
-			<li><a href="#Main">메인 화면</a>
-			<li><a href="#our_home">우리 집 한눈에 보기</a>
-			<li><a href="#community">게 시 판</a>
-			<li><a href="#settings">설   정</a>
+			<li><a href="#Main" >메인 화면</a>
+			<li><a href="#our_home" onclick="location.href='our_home.jsp'">우리 집 한눈에 보기</a>
+			<li><a href="#community" onclick="location.href='community.jsp'">게 시 판</a>
+			<li><a href="#settings" onclick="location.href='Settings.jsp'">설   정</a>
 		</ul>
 	</nav>
 	
