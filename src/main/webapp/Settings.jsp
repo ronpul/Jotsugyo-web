@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>설 정</title>
 </head>
 <body>
 	<%@ include file="left_menu.jsp" %>

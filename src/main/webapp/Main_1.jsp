@@ -9,7 +9,7 @@
 <body>
 	<%@ include file="left_menu.jsp" %>
 	<div>
-		<img src="main_page.PNG">
+		<img src="main_img.PNG">
 	</div>
 	
 </body>
