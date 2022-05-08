@@ -12,7 +12,7 @@
 	<%@ include file="left_menu.jsp" %>
 	
 	<div>
-		<img src="our_home.PNG">
+		<img src="home.PNG">
 	</div>
 	
 	
